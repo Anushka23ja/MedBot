@@ -1,2 +1,2 @@
 # MedBot
-MedBot transforms healthcare with AI-driven, personalized diagnoses in just a few taps. Swift analysis matches symptoms to probable diagnoses, streamlining the process and ensuring timely, reliable medical guidance. By leveraging cutting-edge tech, MedBot empowers users to control their health, offering peace of mind and valuable insights.
+Collaboratively developed during a Hackathon with a dedicated team, this project showcases our collective effort and expertise in harnessing artificial intelligence to revolutionize healthcare. With streamlined diagnostics and personalized guidance, our creation, named MedBot, empowers individuals to proactively manage their health with ease and confidence.
