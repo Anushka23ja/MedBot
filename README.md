@@ -1,2 +1,7 @@
 # MedBot
-Collaboratively developed during a Hackathon with a dedicated team, this project showcases our collective effort and expertise in harnessing artificial intelligence to revolutionize healthcare. With streamlined diagnostics and personalized guidance, our creation, named MedBot, empowers individuals to proactively manage their health with ease and confidence.
+Elevator Pitch: 
+Instantly uncover accurate diagnoses tailored to your symptoms. Experience the future of healthcare today with MedBot. 
+
+About the Project: 
+MedBot is an AI tool designed to provide accurate diagnoses once users input their symptoms into the chat. Our team has designed the website to be intuitive, user-friendly, and informative. Our mission is to empower users of all ages to leverage AI for their health needs, ensuring they receive the appropriate diagnosis and treatment. Our platform delivers precise information tailored to each diagnosis, facilitating informed decision-making for users.
+
